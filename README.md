@@ -1,2 +1,2 @@
-# y2k38
+# Y2K38
 Watch Unix time overflow realtime
